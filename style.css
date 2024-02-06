@@ -4,8 +4,10 @@ body{
 
 div{
     background-color: darkcyan;
+    
 }
 div > p{
     background-color:brown;
     color: chartreuse;
+    font-size: 20px;
 }
